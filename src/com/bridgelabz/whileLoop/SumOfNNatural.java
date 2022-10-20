@@ -1,2 +1,4 @@
-package com.bridgelabz.whileLoop;public class SumOfNNatural {
+package com.bridgelabz.whileLoop;
+
+public class SumOfNNatural {
 }
